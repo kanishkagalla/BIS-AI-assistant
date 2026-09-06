@@ -1,0 +1,16 @@
+BIS Standards for Electronic Devices in India
+
+1. BIS Standards and Safety of Electronic Devices
+The Bureau of Indian Standards (BIS) establishes Indian Standards for a wide range of electronic and electrical devices sold in India. These standards are intended to ensure that products are safe, reliable, and suitable for their intended use. Depending on the type of device, applicable requirements may cover electrical safety, construction, performance, electromagnetic compatibility, and protection against hazards such as electric shock, overheating, and fire.
+
+2. Electrical Safety Requirements
+Electronic devices must be designed and manufactured to minimize risks to users during normal operation. Applicable BIS standards may specify requirements for insulation, protection against electric shock, earthing, temperature rise, wiring, plugs, power supplies, and resistance to abnormal operating conditions. Devices such as chargers, adapters, televisions, computers, and household electronic equipment may each have their own applicable Indian Standard.
+
+3. Performance and Quality Testing
+BIS standards can also specify performance and quality requirements in addition to basic safety. Depending on the product, testing may include electrical strength, leakage current, insulation resistance, temperature, mechanical strength, durability, energy performance, and electromagnetic compatibility. Manufacturers must ensure that the finished product consistently meets the requirements of the applicable standard through appropriate testing and quality-control procedures.
+
+4. BIS Certification and Compulsory Registration
+Some electronic products are covered by mandatory BIS conformity-assessment requirements, while others may be covered by voluntary certification or other Indian regulatory requirements. Certain electronic and IT products fall under the BIS Compulsory Registration Scheme (CRS), under which specified products must be registered before being sold in India. The exact requirement depends on the product category and the applicable notification or standard.
+
+5. BIS Marking and Consumer Safety
+Where BIS certification or registration is mandatory, manufacturers and importers must comply with the applicable testing, registration/licensing, and marking requirements. Consumers should check the relevant BIS marking or registration information where applicable and purchase electronic products from reliable sources. Because different electronic devices are governed by different standards, the correct BIS standard must always be identified based on the exact product—for example, a mobile phone, laptop, LED lamp, power adapter, television, or refrigerator.

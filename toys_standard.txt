@@ -1,0 +1,13 @@
+BIS Standards for Toys in India
+
+1. Safety Requirements for Toys
+The Bureau of Indian Standards (BIS) has established safety standards for toys sold or manufactured in India. These standards are designed to protect children from hazards such as sharp edges, small parts, excessive noise, toxic materials, and unsafe construction. The main standard for mechanical and physical safety is IS 9873 (Part 1). Toys must comply with the applicable requirements before they can legally be sold in the Indian market.
+
+2. Chemical and Material Safety
+BIS standards also control the chemicals and materials used in toys. IS 9873 (Part 3) deals with the migration of certain elements, helping to limit children's exposure to harmful substances such as lead and other toxic elements. IS 9873 (Part 9) addresses certain phthalate esters, which can be present in plastics and other flexible materials. These requirements are particularly important because young children may put toys or toy components in their mouths.
+
+3. Flammability and Special Toy Requirements
+Toy manufacturers must also consider fire and other special hazards. IS 9873 (Part 2) specifies requirements relating to flammability, while IS 9873 (Part 4) covers swings, slides and similar activity toys intended for domestic use. IS 9873 (Part 7) specifies safety requirements and test methods for finger paints. These standards ensure that toys designed for particular activities or made from particular materials receive appropriate safety testing.
+
+4. Electric Toys and BIS Certification
+Electric toys are subject to additional safety requirements under IS 15644, which covers the safety of electric toys. Depending on the type and design of a toy, several BIS standards may apply simultaneously. Manufacturers and importers must identify the applicable standards, have the toys tested through the required BIS-recognized process, and obtain the appropriate BIS certification before placing covered toys on the Indian market. The BIS Standard Mark on a certified toy provides an indication that the product has met the applicable Indian safety requirements.

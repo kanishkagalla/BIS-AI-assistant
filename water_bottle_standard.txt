@@ -1,0 +1,26 @@
+Heading	Essential information
+Indian Standard	IS 17803:2022 — Potable Water Bottles (Copper, Stainless Steel, Aluminium).
+Scope	Metal bottles intended for carrying drinking water, generally up to 1500 ml. B BIS
+BIS mandatory?	YES, where covered by the applicable QCO.
+Certification	Scheme-I / ISI Mark
+QCO	Potable Water Bottles (Quality Control) Order, 2023, with subsequent 2024 order/amendments. B BIS
+Main tests	Capacity, leakage, impact resistance, load/strap strength where applicable and other performance requirements. B BIS
+Marking	BIS Standard Mark/ISI mark and licence details as prescribed.
+Key concern	Material must comply with the specified requirements for copper/stainless steel/aluminium and components.
+
+BIS Standards for Water Bottles in India
+
+1. BIS Standards and Safety of Water Bottles
+The Bureau of Indian Standards (BIS) establishes Indian Standards for products used for storing and handling drinking water. Water bottles intended for drinking-water use should be made from materials that are safe, hygienic, and suitable for contact with water. The applicable BIS requirements depend on the material and type of bottle, such as plastic, stainless steel, glass, or other materials. These requirements help ensure that the bottle does not adversely affect the quality, taste, odour, or safety of drinking water.
+
+2. Plastic Water Bottles
+For plastic bottles and containers used for drinking water, the relevant BIS standard depends on the type of plastic and the intended application. Requirements can cover the composition and quality of the plastic, physical properties, migration of substances, and suitability for contact with food or drinking water. Manufacturers must use appropriate food-contact-grade materials and ensure that the finished product complies with the applicable Indian Standard. Particular attention is given to substances that could migrate from the plastic into the water.
+
+3. Stainless-Steel Water Bottles
+Stainless-steel bottles are commonly used for reusable drinking-water storage. The applicable BIS requirements address factors such as the quality and composition of the material, construction, workmanship, and safety for the intended use. The steel should be appropriate for contact with drinking water and should not introduce harmful substances or undesirable changes in the water. Manufacturers should verify the applicable BIS specification for the particular type and construction of the stainless-steel bottle.
+
+4. Testing and Quality Requirements
+Water bottles may be subjected to different tests depending on the applicable material standard. These can include tests for dimensions, capacity, leakage, strength, durability, chemical or material characteristics, and migration of substances. For products intended for food or drinking-water contact, the material must meet the relevant requirements for safe contact. Proper manufacturing controls and quality testing are important to ensure that bottles remain safe during normal use.
+
+5. BIS Certification and Marking
+BIS certification requirements are standard- and product-specific, so not every water bottle automatically requires a BIS licence merely because it is a water bottle. Manufacturers and importers should first identify the exact material, construction, and intended use of the product and then determine whether a compulsory BIS certification requirement applies. Where certification is mandatory, the manufacturer must follow the applicable BIS conformity-assessment scheme, testing requirements, and marking provisions before selling the product in India. The applicable BIS Standard Mark and licence details, where required, provide evidence of conformity with the relevant Indian Standard.
