@@ -1,3 +1,5 @@
+from langchain_community.llms import HuggingFaceHub
+import os
 from langchain_community.llms import Ollama
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -13,7 +15,10 @@ def get_rag_pipeline():
         allow_dangerous_deserialization=True
     )
     retriever = vector_store.as_retriever(search_kwargs={"k": 3})
-    llm = Ollama(model=LLM_MODEL)
+    llm = HuggingFaceHub(
+    repo_id="google/flan-t5-xl",
+    huggingfacehub_api_token=os.getenv("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")
+    )
 
     # RetrievalQA is still available in langchain==0.1.20
     qa = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, chain_type="stuff")
