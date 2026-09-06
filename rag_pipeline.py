@@ -1,4 +1,4 @@
-from langchain_community.llms import Ollama
+from langchain_community.llms import HuggingFaceHub
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from config import VECTOR_DB_PATH, LLM_MODEL
@@ -13,7 +13,12 @@ def get_rag_pipeline():
         allow_dangerous_deserialization=True
     )
     retriever = vector_store.as_retriever(search_kwargs={"k": 3})
-    llm = Ollama(model=LLM_MODEL)
+
+    # ✅ Hugging Face free model instead of Ollama
+    llm = HuggingFaceHub(
+        repo_id="google/flan-t5-base",   # free model
+        huggingfacehub_api_token="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"
+    )
 
     # RetrievalQA is still available in langchain==0.1.20
     qa = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, chain_type="stuff")
@@ -25,3 +30,4 @@ def answer_query(query: str):
     if isinstance(result, dict) and "result" in result:
         return format_answer(result["result"])
     return format_answer(str(result))
+
