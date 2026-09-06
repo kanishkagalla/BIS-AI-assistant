@@ -16,7 +16,7 @@ def get_rag_pipeline():
 
     # ✅ Hugging Face free model instead of Ollama
     llm = HuggingFaceHub(
-        repo_id="google/flan-t5-base",   # free model
+        repo_id="google/flan-t5-small",   # free model
         huggingfacehub_api_token="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"
     )
 
