@@ -1,5 +1,5 @@
 # config.py
-VECTOR_DB_PATH = "vector_store"
+VECTOR_DB_PATH = "vectorstore"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 LLM_MODEL = "mistral"   # must be installed in Ollama
 CHUNK_SIZE = 500
