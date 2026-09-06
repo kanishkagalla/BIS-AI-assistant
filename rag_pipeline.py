@@ -17,7 +17,7 @@ def get_rag_pipeline():
     # ✅ Hugging Face free model instead of Ollama
     llm = HuggingFaceHub(
         repo_id="google/flan-t5-small",   # free model
-        huggingfacehub_api_token="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"
+        huggingfacehub_api_token="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"
     )
 
     # RetrievalQA is still available in langchain==0.1.20
