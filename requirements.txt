@@ -1,6 +1,7 @@
 streamlit
-langchain
-faiss-cpu
-sentence-transformers
-ollama
+langchain==0.1.20
 langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+ollama
