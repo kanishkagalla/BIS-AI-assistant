@@ -5,3 +5,5 @@ sentence-transformers
 faiss-cpu
 pypdf
 ollama
+huggingface_hub
+
